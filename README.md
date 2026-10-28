@@ -1,28 +1,3 @@
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JasaratAbdullayev&show_icons=true&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaratAbdullayev&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=JasaratAbdullayev&style=flat-square&color=blue"
-    alt="Profile Views"
-  />
-</p>
-
-
-
-
 # Hey 👋, I'm Jasarat Abdullayev
 
 <p align="left">
@@ -128,20 +103,7 @@ A blogging application developed with Django.
 
 **Technologies:** Python, Django, SQLite/PostgreSQL, Docker.
 
----
 
-## 📈 GitHub Statistics
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JasaratAbdullayev&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaratAbdullayev&layout=compact&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JasaratAbdullayev&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
