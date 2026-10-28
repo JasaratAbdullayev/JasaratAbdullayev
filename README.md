@@ -1,55 +1,128 @@
-## Hey 👋, I'm Cəsarət Abdullayev (Jasarat Abdullayev)
+# Hey 👋, I'm Cəsarət Abdullayev (Jasarat Abdullayev)
 
-<a href="https://github.com/JasaratAbdullayev" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/jasarat-abdullayev" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+<p align="left">
+  <a href="https://github.com/JasaratAbdullayev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jasarat-abdullayev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### Glad to see you here! 
-**SOC L1 Analyst | Cybersecurity & Threat Detection Practitioner**  
+### Cybersecurity Graduate | Aspiring SOC Analyst | Python/Django Developer
 
-<br/>
+I'm a cybersecurity graduate from Azerbaijan State Oil and Industry University with a background in IT support and Python backend development. I'm currently focusing on **Blue Team operations, SIEM monitoring, log analysis, and threat detection** through hands-on learning and practical lab projects.
+
+---
 
 ## 🎯 About Me
-* 🛡️ I am actively building hands-on experience in **Security Operations Center (SOC)** environments, threat detection, and incident triage.
-* 💻 Passionate about bridging system administration with defensive security through practical home labs.
-* 🚀 Currently focused on mastering SIEM architectures, log telemetry analysis, and detection engineering.
 
-<br/>
+- 🛡️ Building practical skills in **SOC operations, security monitoring, and alert triage**.
+- 🔍 Learning to investigate Windows security events and identify suspicious activity.
+- 🖥️ Developing a home lab with **Wazuh, Ubuntu Server, Windows 10, and VirtualBox**.
+- 🧠 Studying security fundamentals, IOCs, MITRE ATT&CK, and incident response concepts.
+- 💻 Experienced in Python, Django, REST APIs, and IT support.
+- 🎯 Working toward a **Junior SOC Analyst / SOC L1 / Blue Team** role.
 
-## 🛠️ Security & IT Stack (Tools & Technologies)
+---
 
-<div align="center">
-<a href="https://wazuh.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux/Ubuntu" height="25" /></a>
-<img style="margin: 10px" src="https://img.shields.io/badge/SIEM-Wazuh-blue?style=flat&logo=wazuh" alt="Wazuh SIEM" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Endpoint-Windows_10-blue?style=flat&logo=windows" alt="Windows" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Virtualization-VirtualBox-orange?style=flat&logo=oracle" alt="VirtualBox" height="25" />
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
-</div>
+## 🛠️ Technical Skills
 
-<br/>
+### Cybersecurity & Systems
 
-## 📊 Featured Home Lab
-* **[SOC-Home-Lab](https://github.com/JasaratAbdullayev/SOC-Home-Lab):** Enterprise SOC L1 Lab featuring VirtualBox-based Ubuntu Server (Wazuh SIEM), Windows 10 endpoint & firewall log telemetry, custom XML detection rules (`local_rules.xml`), and real-world threat triage workflows (MITRE ATT&CK T1110).
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-4A90E2?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/SIEM-Fundamentals-365E8D?style=for-the-badge" alt="SIEM Fundamentals" />
+  <img src="https://img.shields.io/badge/Log-Analysis-486B45?style=for-the-badge" alt="Log Analysis" />
+</p>
 
-<br/>
+### Programming & Backend Development
 
-## 📈 GitHub Stats
-<table><tr><td valign="top" width="50%">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/REST_APIs-555555?style=for-the-badge" alt="REST APIs" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jasaratabdullayev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+### Databases & Tools
 
-</td><td valign="top" width="50%">
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasaratabdullayev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>
+## 🔬 Featured Projects
 
-<br/>
+### 🛡️ SOC Home Lab — In Progress
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jasaratabdullayev&&style=flat-square)
+A hands-on project focused on learning SIEM monitoring and defensive security in a virtual environment.
+
+- Setting up and exploring Wazuh SIEM.
+- Working with Windows security logs and endpoint telemetry.
+- Learning to investigate authentication events and suspicious activity.
+- Studying detection rules, alert triage, and incident response workflows.
+- Mapping relevant attack behaviors to MITRE ATT&CK.
+
+**Technologies:** Wazuh, Ubuntu Server, Windows 10, VirtualBox, Windows Event Logs.
+
+> Detection rules and investigation results will be documented as they are tested and verified.
+
+### 🚗 TurboAZ Clone
+
+A car marketplace backend built with Python and Django REST Framework.
+
+- Designed REST API endpoints and backend functionality.
+- Worked with database models and application logic.
+- Practiced API testing and backend development workflows.
+
+**Technologies:** Python, Django, Django REST Framework, PostgreSQL, Docker.
+
+### 🔐 InjuriaAZ
+
+A backend-focused project built with Django REST Framework.
+
+- Developed API functionality and backend components.
+- Practiced data modeling and REST API development.
+
+**Technologies:** Python, Django REST Framework, PostgreSQL.
+
+### 📝 BlogApp
+
+A blogging application developed with Django.
+
+- Practiced application architecture, database integration, and authentication-related functionality.
+
+**Technologies:** Python, Django, SQLite/PostgreSQL, Docker.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JasaratAbdullayev&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaratAbdullayev&layout=compact&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JasaratAbdullayev&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in cybersecurity opportunities, SOC internships, Blue Team learning, and collaborating on practical technical projects.
+
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/jasarat-abdullayev)
+- 💻 [Explore my GitHub repositories](https://github.com/JasaratAbdullayev)
+
+*Learning by building. Improving through investigation. Growing in cybersecurity.*
