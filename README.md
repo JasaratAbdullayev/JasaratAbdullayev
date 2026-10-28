@@ -1,4 +1,29 @@
-# Hey 👋, I'm Cəsarət Abdullayev (Jasarat Abdullayev)
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JasaratAbdullayev&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasaratAbdullayev&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=JasaratAbdullayev&style=flat-square&color=blue"
+    alt="Profile Views"
+  />
+</p>
+
+
+
+
+# Hey 👋, I'm Jasarat Abdullayev
 
 <p align="left">
   <a href="https://github.com/JasaratAbdullayev">
